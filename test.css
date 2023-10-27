@@ -5,3 +5,10 @@ h1{
 body{
     background-color: aqua;
 }
+h3{
+    text-align: center;
+    color :green;
+}
+p{
+    color:yellow;
+}

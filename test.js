@@ -1,1 +1,1 @@
-alert('this test')
+alert('test test')
